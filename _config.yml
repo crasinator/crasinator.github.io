@@ -1,11 +1,11 @@
 # Site settings
 author: Jordan Reed
-title: 
+title: My fancy blog
 header-img: img/home-bg.png
 email: jordanreed03@gmail.com
 copyright_name: Jordan Reed
 description: > # this means to ignore newlines until "baseurl:"
-  
+  a blog about code
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  crasinator
